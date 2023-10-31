@@ -33,25 +33,42 @@
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
                     android:textStyle="bold"
+<<<<<<< HEAD
                     android:text="Nisarg Patel"/>
+=======
+                    android:text="Himanshu Modi"/>
+>>>>>>> 228b044 (Initial commit)
                 <TextView
                     android:id="@+id/txt_phone"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
+<<<<<<< HEAD
                     android:text="+91 9426122547"/>
+=======
+                    android:text="+91 9313303719"/>
+>>>>>>> 228b044 (Initial commit)
                 <TextView
                     android:id="@+id/txt_email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="14sp"
+<<<<<<< HEAD
                     android:text="nisjp.14@gmail.com"/>
+=======
+                    android:text="modihimanshu880@gmail.com"/>
+>>>>>>> 228b044 (Initial commit)
                 <TextView
                     android:id="@+id/txt_address"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+<<<<<<< HEAD
                     android:text="B-6 Tirupati Sukan Bunglows\nBehind kalapi nagar
                 \nRadhanpur Road\nMehesana 384002"
+=======
+                    android:text="s-11 Swastik flets\nBehind kalapi nagar
+                \nGayatri Mandir Road\nMehesana 384002"
+>>>>>>> 228b044 (Initial commit)
                     android:textSize="14sp" />
             </LinearLayout>
             <LinearLayout
